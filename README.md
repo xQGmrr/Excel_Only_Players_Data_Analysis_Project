@@ -76,8 +76,7 @@ analysis.
 I used Pivot Tables and Pivot Charts to rank players according to their
 total Goals and total Assists.
 
-![Football Dashboard](0_Resourses\images\Top_Scorer.png)
-
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/Top_Scorer.png)
 
 
 The top of the ranking includes:
@@ -102,7 +101,7 @@ The top of the ranking includes:
     substantial match involvement.
 
 
-    ![Football Dashboard](0_Resourses\images\Top_Assists.png)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/Top_Assists.png)
 
 
 ### 🤔 So What?
@@ -123,7 +122,7 @@ competitions.
 
 The total goals recorded by league are:
 
- ![Football Dashboard](0_Resourses\images\Goals_By_League.png)
+ ![Football Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/Goals_By_League.png)
 
 ### 💡 Insights
 
@@ -152,7 +151,7 @@ their contribution to the overall player population.
 
 The dashboard shows the following position groups:
 
- ![Football Dashboard](0_Resourses\images\Player_Pos.png)
+ ![Football Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/Player_Pos.png)
 
 
 ### 💡 Insights
@@ -181,7 +180,7 @@ goals.
 
 The analysis records:
 
-![Football_Dashboard](0_Resourses\images\table_1.png)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/table_1.png)
 
 ### 💡 Insights
 
@@ -243,7 +242,7 @@ a wide range of countries contribute to them.
 I grouped players into four age categories and compared their average
 age with average matches played.
 
-![Football_Dashboard](0_Resourses\images\table_2.png)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/table_2.png)
 
 ### 💡 Insights
 
@@ -312,7 +311,7 @@ impact through chance creation and assists.
 
 I compared total goals + assists across four age groups.
 
-![Football_Dashboard](0_Resourses\images\GoalbyAge.png)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/GoalbyAge.png)
 
 ### 💡 Insights
 

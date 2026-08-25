@@ -11,7 +11,7 @@ The goal is to turn player-level statistics into clear insights about
 goals, assists, goal contributions, positions, leagues, nationalities,
 age groups, and playing time.
 
-![Football Dashboard](0_Resourses\images\football_dashboard.gif)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/Football_Dashboard.gif)
 
 ### Questions to Analyze
 

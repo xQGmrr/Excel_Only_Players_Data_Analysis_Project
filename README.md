@@ -244,7 +244,7 @@ age with average matches played.
 
 ![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/table_2.png)
 
-![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/AverageMP)
+![Football_Dashboard](https://github.com/xQGmrr/Excel_Only_Players_Data_Analysis_Project/blob/main/0_Resourses/images/AverageMP.png)
 ### 💡 Insights
 
 -   👶 Players under 21 average only **11.18 matches**, the lowest of
